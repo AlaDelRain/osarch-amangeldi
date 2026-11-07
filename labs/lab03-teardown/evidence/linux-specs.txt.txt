@@ -1,0 +1,65 @@
+Architecture:             x86_64
+CPU op-mode(s):           32-bit, 64-bit
+Address sizes:            48 bits physical, 48 bits virtual
+Byte Order:               Little Endian
+
+CPU(s):                   4
+On-line CPU(s) list:      0-3
+Vendor ID:                AuthenticAMD
+Model name:               AMD Ryzen 5 7535HS with Radeon Graphics
+CPU family:               25
+Model:                    68
+Thread(s) per core:       1
+Core(s) per socket:       4
+Socket(s):                1
+Stepping:                 1
+BogoMIPS:                 6587.45
+
+Virtualization features:
+Hypervisor vendor:        KVM
+Virtualization type:      full
+
+NUMA:
+NUMA node(s):             1
+NUMA node0 CPU(s):        0-3
+
+Vulnerabilities:
+Gather data sampling:     Not affected
+Ghostwrite:               Not affected
+Indirect target selection: Not affected
+Itlb multihit:            Not affected
+L1tf:                     Not affected
+Mds:                      Not affected
+Meltdown:                 Not affected
+Mmio stale data:          Not affected
+Old microcode:            Not affected
+Reg file data sampling:   Not affected
+Retbleed:                 Not affected
+Spec rstack overflow:     Vulnerable: Safe RET, no microcode
+Spec store bypass:        Not affected
+Spectre v1:               Mitigation: usercopy/swapgs barriers and __user pointer sanitization
+Spectre v2:               Mitigation: Retpolines; STIBP disabled; RSB filling
+Srbds:                    Not affected
+Tsa:                      Vulnerable: No microcode
+Tsx async abort:          Not affected
+Vmscape:                  Not affected
+
+               total        used        free      shared  buff/cache   available
+Mem:            1.6Gi       378Mi       1.0Gi       1.0Mi       396Mi       1.2Gi
+Swap:              0B          0B          0B
+
+SMBIOS 2.5 present
+
+NAME MODEL                 ROTA TRAN         SIZE
+loop0                           1             66.8M
+loop1                           1             1.5M
+loop2                           1             66.8M
+loop3                           1             1.5M
+loop4                           1             50.1M
+sda      VBOX HARDDISK          1 sata        25 G
+sr0      VBOX CD-ROM            1 ata         50.7M
+
+Filesystem                Size    Used Avail Use% Mounted On
+/dev/sde2                   25g    3.9g       20g   17%    /
+
+x86_64

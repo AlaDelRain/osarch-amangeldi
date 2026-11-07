@@ -1,0 +1,65 @@
+﻿
+
+DeviceLocator        : DIMM 0
+Capacity             : 17179869184
+Speed                : 5600
+ConfiguredClockSpeed : 4800
+SMBIOSMemoryType     : 34
+FormFactor           : 12
+
+
+
+AMD64
+
+
+DeviceLocator        : DIMM 0
+Capacity             : 17179869184
+Speed                : 5600
+ConfiguredClockSpeed : 4800
+SMBIOSMemoryType     : 34
+FormFactor           : 12
+
+
+
+
+FriendlyName            MediaType BusType         Size
+------------            --------- -------         ----
+KINGSTON OM8SEP4512Q-AA SSD       NVMe    512110190592
+
+
+
+DriveLetter FriendlyName FileSystemType DriveType HealthStatus OperationalStatus SizeRemaining      Size
+----------- ------------ -------------- --------- ------------ ----------------- -------------      ----
+C                        NTFS           Fixed     Healthy      OK                    147.17 GB 475.94 GB
+
+
+AMD64
+
+Name                                            NumberOfCores NumberOfLogicalProcessors MaxClockSpeed
+----                                            ------------- ------------------------- -------------
+AMD Ryzen 5 7535HS with Radeon Graphics                     6                        12          3301
+
+
+
+
+DeviceLocator        : DIMM 0
+Capacity             : 17179869184
+Speed                : 5600
+ConfiguredClockSpeed : 4800
+SMBIOSMemoryType     : 34
+FormFactor           : 12
+
+
+
+
+FriendlyName            MediaType BusType         Size
+------------            --------- -------         ----
+KINGSTON OM8SEP4512Q-AA SSD       NVMe    512110190592
+
+
+
+DriveLetter FriendlyName FileSystemType DriveType HealthStatus OperationalStatus SizeRemaining      Size
+----------- ------------ -------------- --------- ------------ ----------------- -------------      ----
+C                        NTFS           Fixed     Healthy      OK                    147.17 GB 475.94 GB
+
+
