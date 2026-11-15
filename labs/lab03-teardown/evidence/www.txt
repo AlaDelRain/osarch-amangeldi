@@ -1,0 +1,106 @@
+Amangeldi Anuarhan 5 group
+def dynamic_massive_bubble():
+    n = int(input("size of list: "))
+    s = 0
+    my_list=[]
+    while s < n:
+        list = int(input("index = "))
+        my_list.append(list)
+        s+=1
+    print(my_list)
+    sor = len(my_list)
+    for i in range (sor-1):
+        for j in range (sor-1-i):
+            if my_list[j]>my_list[j+1]:
+                my_list[j], my_list[j+1] = my_list[j+1],my_list[j]
+    print(my_list)
+    return my_list
+
+
+    #problem 1
+# n = int(input("size of list: "))
+# s = 0
+# my_list=[]
+# while s < n:
+#     list = int(input("index = "))
+#     my_list.append(list)
+#     s+=1
+# print(my_list)  #dynamic massive
+# sor = len(my_list)
+# for i in range (sor-1):
+#     for j in range (sor-1-i):
+#         if my_list[j]>my_list[j+1]:
+#             my_list[j], my_list[j+1] = my_list[j+1],my_list[j]
+# print(my_list)
+
+    #problem 2
+# my_list = dynamic_massive_bubble()
+# num = int(input("Give number: "))
+# if num in my_list:
+#     print("True")
+# else:
+#     print("False")
+
+    #problem 3
+# my_list = dynamic_massive_bubble()      #dynamic_massive_bubble
+# def binary_search(my_list, target):     #binary_search
+#     left = 0
+#     right = len(my_list) - 1
+#     while left <= right:
+#         mid = (left + right)//2
+#         print(mid)
+#         if my_list[mid] == target:
+#             return mid
+#         elif my_list[mid] < target:
+#             left = mid + 1
+#         else:
+#             right = mid - 1
+#     return -1   #If the loop has finished and the element has not been found
+
+# target = int(input("target: "))
+# result_index = binary_search(my_list, target)
+
+# if result_index != -1:
+#     print("Element found! Its index in the list is: ", result_index)
+# else:
+#     print("Element not found.")
+
+    #problem 4
+## (a)
+## matrix A 2x3 & matrix B 3x2, The resulting matrix C will have a size of 2 × 2
+## A = [[1, 2, 3],[4, 5, 6]]     B = [[7, 8], [9, 1], [2, 3]]
+## C = [[C1, C2], [C3, C4]]
+## C1 = (1 * 7) + (2 * 9) + (3 * 2) = 31
+## C2 = (1 * 8) + (2 * 1) + (3 * 3) = 19
+## C3 = (4 * 7) + (5 * 9) + (6 * 2) = 85
+## C4 = (4 * 8) + (5 * 1) + (6 * 3) = 55
+## C = [[31, 19], [85, 55]]
+
+# # (b)
+import numpy
+# A = numpy.array([[1, 2, 3], [4, 5, 6]])
+# B = numpy.array([[7, 8], [9, 1], [2, 3]])
+
+# C_matmul = A @ B        # matrix multiplication
+# # @ = numpy.matmul
+# C_dot = numpy.dot(A,B)  # dot product
+
+# print("C_matmul: \n", C_matmul)
+# print("C_dot: \n", C_dot)
+
+    #problem 5
+# array = [3, 2, 1, 5, 6, 4]
+# k = 2   # k-th largest element
+# array.sort(reverse=True)
+# result = array[k - 1]
+# print(f"Sorted array: {array}\n", f"k = {k}\n", f"Result: {result}")
+
+    #problem 6
+x = numpy.array([10, 20, 30, 40, 50], dtype=float)
+mu = numpy.mean(x)
+sigma = numpy.std(x)
+z = (x - mu) / sigma
+print("Original array x:", x)
+print("Mean (mu): ", mu)
+print("Standard deviation (sigma): ", sigma)
+print("Normalized array z:", z)
