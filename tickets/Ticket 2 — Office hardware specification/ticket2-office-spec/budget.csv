@@ -1,0 +1,46 @@
+﻿role,component,model,price_kzt,source,date
+accountant,CPU,"AMD Ryzen 5 3400G (AM4, integrated graphics)",37455,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+accountant,Motherboard,"ASUS Prime B550M-K (AM4, DDR4)",50489,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+accountant,Memory,2 × Kingston/Team Group DDR4 8 GB DIMM (16 GB total),69860,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+accountant,Storage,GIGABYTE 1 TB SATA SSD,70922,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+accountant,CPU cooler,DeepCool AG400,11397,https://vendara.kz/product/kuler-deepcool-ag400-s115x12001700am4-220w-12cm-4pin-alcu-500-2000rpm-7589cfm-316db,2026-11-23
+accountant,Case,Huntkey A320G mATX case,12517,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+accountant,Power supply,FSP HV PRO 550 W 80+ Bronze,19102,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+accountant,Monitor,NEO 23.8-inch IPS Full HD monitor,39990,https://www.technodom.kz/catalog/ofisnye-komp-jutery/noutbuki-i-komp-jutery/komp-jutery-i-monitory?page=1,2026-11-23
+accountant,Operating system,Windows 11 Home OEM electronic licence,30400,https://skysoft.kz/product/microsoft-windows-11-home-oem/,2026-11-23
+sales,CPU,"Intel Core i5-12400 (LGA1700, integrated UHD graphics; OEM)",78194,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+sales,Motherboard,Gigabyte B760M GAMING PLUS WiFi DDR4 (LGA1700),71522,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+sales,Memory,2 × DDR4 8 GB DIMM (16 GB total),69860,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+sales,Storage,GIGABYTE 1 TB SATA SSD,70922,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+sales,CPU cooler,DeepCool AG400 (required because listed CPU is OEM),11397,https://vendara.kz/product/kuler-deepcool-ag400-s115x12001700am4-220w-12cm-4pin-alcu-500-2000rpm-7589cfm-316db,2026-11-23
+sales,Case,Huntkey A320G mATX case,12517,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+sales,Power supply,FSP HV PRO 550 W 80+ Bronze,19102,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+sales,Monitor,AOC 23.8-inch IPS Full HD 120 Hz monitor,47990,https://www.technodom.kz/catalog/ofisnye-komp-jutery/noutbuki-i-komp-jutery/komp-jutery-i-monitory?page=1,2026-11-23
+sales,Operating system,Windows 11 Home OEM electronic licence,30400,https://skysoft.kz/product/microsoft-windows-11-home-oem/,2026-11-23
+web_developer,CPU,"Intel Core i5-12400 (LGA1700, integrated UHD graphics; OEM)",78194,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+web_developer,Motherboard,Gigabyte B760M GAMING PLUS WiFi DDR4 (LGA1700),71522,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+web_developer,Memory,4 × DDR4 8 GB DIMM (32 GB total; all four DIMM slots used),139720,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+web_developer,Storage,GIGABYTE 1 TB SATA SSD,70922,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+web_developer,CPU cooler,DeepCool AG400 (required because listed CPU is OEM),11397,https://vendara.kz/product/kuler-deepcool-ag400-s115x12001700am4-220w-12cm-4pin-alcu-500-2000rpm-7589cfm-316db,2026-11-23
+web_developer,Case,Huntkey A320G mATX case,12517,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+web_developer,Power supply,FSP HV PRO 550 W 80+ Bronze,19102,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+web_developer,Monitor,AOC 23.8-inch IPS Full HD 120 Hz monitor,47990,https://www.technodom.kz/catalog/ofisnye-komp-jutery/noutbuki-i-komp-jutery/komp-jutery-i-monitory?page=1,2026-11-23
+web_developer,Operating system,Windows 11 Pro OEM electronic licence,39600,https://skysoft.kz/product-category/windows/windows-11/,2026-11-23
+designer,CPU,"Intel Core i5-12400 (LGA1700, integrated UHD graphics; OEM)",78194,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+designer,Motherboard,Gigabyte B760M GAMING PLUS WiFi DDR4 (LGA1700),71522,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+designer,Memory,4 × DDR4 8 GB DIMM (32 GB total; all four DIMM slots used),139720,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+designer,Storage,GIGABYTE 1 TB SATA SSD,70922,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+designer,GPU,ASUS GeForce RTX 3050 OC 6 GB,167664,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+designer,CPU cooler,DeepCool AG400 (required because listed CPU is OEM),11397,https://vendara.kz/product/kuler-deepcool-ag400-s115x12001700am4-220w-12cm-4pin-alcu-500-2000rpm-7589cfm-316db,2026-11-23
+designer,Case,Huntkey A320G mATX case,12517,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+designer,Power supply,FSP HV PRO 550 W 80+ Bronze,19102,https://vendara.kz/catalog/kompiuternye-komplektuiushhie?page=2,2026-11-23
+designer,Monitor,iiyama 23.8-inch IPS Full HD monitor,76990,https://www.technodom.kz/catalog/ofisnye-komp-jutery/noutbuki-i-komp-jutery/komp-jutery-i-monitory?page=1,2026-11-23
+designer,Operating system,Windows 11 Home OEM electronic licence,30400,https://skysoft.kz/product/microsoft-windows-11-home-oem/,2026-11-23
+
+TOTALS,,,
+accountant,ROLE TOTAL,,342132,,2026-11-23
+sales,ROLE TOTAL,,411904,,2026-11-23
+web_developer,ROLE TOTAL,,490964,,2026-11-23
+designer,ROLE TOTAL,,678428,,2026-11-23
+all_roles,GRAND TOTAL,,1923428,,2026-11-23
+all_roles,REMAINING BUDGET,,1076572,,2026-11-23
